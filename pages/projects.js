@@ -9,12 +9,11 @@ export default function Projects() {
       <SEO 
         title="My Projects" 
         description="A showcase of my recent projects"
-        canonical="https://yoursite.com/projects"
         ogImage="/images/project1.jpg"
       />
       
       <Layout>
-        <h1 className="text-4xl font-bold text-blue-600 mb-8">
+        <h1 className="text-4xl font-bold text-green-800 mb-8">
           My Projects
         </h1>
         

@@ -7,7 +7,6 @@ export default function About() {
       <SEO 
         title="About Me" 
         description="Learn more about me and my skills"
-        canonical="https://yoursite.com/about"
         ogImage="/images/project1.jpg"
       />
       
